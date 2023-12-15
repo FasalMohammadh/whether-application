@@ -1,4 +1,3 @@
-
 # Whether-App
 
 ## Instructions
